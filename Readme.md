@@ -41,19 +41,6 @@ Connecting coders worldwide by skill level, stack, and stories.
 
 ---
 
-## ⚙️ Tech Stack
-
-| Frontend       | Backend      | Database    | Authentication | Hosting      |
-|----------------|--------------|-------------|----------------|--------------|
-| React.js       | Node.js      | MongoDB     | JWT, bcrypt    | Netlify (Frontend)<br>Render/Heroku (Backend API) |
-
----
-
-## 📂 Project Structure
-
-
----
-
 ## 💡 Future Enhancements
 
 - Real-time chat and DMs
